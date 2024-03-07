@@ -1,0 +1,31 @@
+10
+Romania
+1
+50
+Bulgaria
+2
+15 20
+Germania
+4
+80 85 90 95
+Franta
+3
+70 75 80
+Italia
+2
+65 70
+Spania
+3
+75 80 85
+Regatul_Unit
+4
+85 90 95 100
+Suedia
+3
+70 75 80
+Norvegia
+1
+40
+Danemarca
+5
+55 60 65 80 90
